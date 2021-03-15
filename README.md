@@ -54,5 +54,5 @@ const ByQush = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight">
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blue)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-vlue)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-9cf)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-9cf)
+![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blue)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-blue)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-9cf)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-9cf)
 <hr>
