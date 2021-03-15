@@ -10,6 +10,7 @@
 <details>
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight&show_icons=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&theme=tokyonight&hide=batchfile&show_icons=true">
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight&show_icons=true">
 </details>
 
