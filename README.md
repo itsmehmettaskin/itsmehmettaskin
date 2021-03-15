@@ -9,7 +9,7 @@
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=ByQushjs&hide=batchfile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight">
 </details>
 
