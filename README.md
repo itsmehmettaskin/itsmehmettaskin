@@ -4,10 +4,14 @@
 ```js
 const ByQush = {
     Name: null,
-    Age: 15,5, // :)
+    Age: "15,5", // :)
     LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;",
     FavouriteLanguage: "PHP , Node.js & Javascript",
-    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
+    Country: "TR",
+    Languages: {
+        Main: "Turkish",
+        All: "English, Turkish"
+    }
 };
 ```
 
