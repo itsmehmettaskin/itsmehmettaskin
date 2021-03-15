@@ -1,8 +1,21 @@
-### Hi there 👋
+# Hi! Nice te meet you! 👋
+
+#If ByQush was An Object in a Javascript File:
+```js
+const ByQush = {
+    Name: null,
+    Age: 15,5, // :)
+    LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;",
+    FavouriteLanguage: "PHP , Node.js & Javascript",
+    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
+};
+```
+
+## Which Platforms Does ByQush Use?
 <p>
 <img href="https://www.twitch.tv/swainthedev" src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/>
-<img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
-<img href="https://www.youtube.com/c/ClaudetteTheDev" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
+<img href="https://www.youtube.com/ByQush" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
+<img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 <img href="https://discord.com/users/714451348212678658" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
  </p>
 <br>
@@ -21,17 +34,3 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
