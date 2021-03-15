@@ -21,6 +21,7 @@ const ByQush = {
 <img href="https://www.twitch.tv/swainthedev" src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/>
 <img href="https://www.youtube.com/ByQush" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
 <img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
+<img href="https://www.twitter.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/twitter.png" height="50em"/>
 <img href="https://discord.com/users/714451348212678658" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
  </p>
 <hr>
@@ -35,6 +36,12 @@ const ByQush = {
 </p>
 <hr>
 
+## Tools:
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40em" height="40em"/> </a>
+<a href="https://www.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40em" height="40em"/> </a>
+<a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/> </a>
+
+
 ## Stats
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ByQushjs&theme=dracula">
@@ -47,5 +54,5 @@ const ByQush = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight">
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=9cf)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-9cf)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-9cf)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-9cf)
 <hr>
