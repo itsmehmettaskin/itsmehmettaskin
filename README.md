@@ -9,15 +9,16 @@
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight&show_icons=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&theme=tokyonight&hide=batchfile&show_icons=true">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight&show_icons=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=ByQushjs&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight">
 </details>
 
 
 ## Stats
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ByQushjs&theme=dracula"></div>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=ByQushjs&theme=dracula">
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
 
