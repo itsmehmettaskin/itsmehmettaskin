@@ -41,6 +41,7 @@ const ByQush = {
 <a href="https://www.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40em" height="40em"/> </a>
 <a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/> </a>
 
+<hr>
 
 ## Stats
 <div align="center">
