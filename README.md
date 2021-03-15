@@ -1,6 +1,6 @@
 # Hi! Nice te meet you! 👋
 
-#If ByQush was An Object in a Javascript File:
+## If ByQush was An Object in a Javascript File:
 ```js
 const ByQush = {
     Name: null,
