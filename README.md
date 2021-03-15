@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ByQush](https://github-readme-stats.vercel.app/api?username=ByQushjs&show_icons=true&theme=radical) <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&layout=compact&theme=radical)](https://byqush.dev)
 <!--
 **ByQushWasHere/ByQushWasHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
