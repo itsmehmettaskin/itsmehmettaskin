@@ -23,7 +23,7 @@ const ByQush = {
 <img href="https://discord.com/users/714451348212678658" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
  </p>
 <br>
-
+<hr>
 ## Languages:
 <p>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -32,13 +32,13 @@ const ByQush = {
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
+<hr>
 <details>
-    <summary><b>GitHub</b> Activity</summary>
+    <h3><summary><b>GitHub</b> Activity</summary></h3>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight">
 </details>
-
+<hr>
 
 ## Stats
 <div align="center">
@@ -46,3 +46,4 @@ const ByQush = {
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByQushjs&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-96-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
+<hr>
