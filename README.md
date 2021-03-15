@@ -14,6 +14,7 @@ const ByQush = {
     }
 };
 ```
+<hr>
 
 ## Which Platforms Does ByQush Use?
 <p>
@@ -22,7 +23,6 @@ const ByQush = {
 <img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 <img href="https://discord.com/users/714451348212678658" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
  </p>
-<br>
 <hr>
 
 ## Languages:
@@ -33,7 +33,6 @@ const ByQush = {
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-<br>
 <hr>
 
 ## Stats
