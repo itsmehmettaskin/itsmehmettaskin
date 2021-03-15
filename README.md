@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-![ByQush](https://github-readme-stats.vercel.app/api?username=ByQushjs&show_icons=true&theme=highcontrast) <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&layout=compact&theme=highcontrast)](https://byqush.dev)
-
 <p>
 <img href="https://www.twitch.tv/swainthedev" src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/>
 <img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
@@ -14,7 +10,7 @@
 <details>
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ByQushjs&theme=tokyonight&show_icons=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByQushjs&theme=tokyonight&hide=batchfile&show_icons=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight&show_icons=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByQushjs&theme=tokyonight&show_icons=true">
 </details>
 
 
