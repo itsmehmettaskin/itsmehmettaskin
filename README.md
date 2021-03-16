@@ -22,6 +22,7 @@ const ByQush = {
 <img href="https://www.youtube.com/ByQush" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
 <img href="https://www.github.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 <img href="https://www.twitter.com/ByQushjs" src="https://img.icons8.com/plasticine/100/000000/twitter.png" height="50em"/>
+<img href="https://www.npmjs.com/~byqush" src="https://img.icons8.com/color/48/000000/npm.png" height="50em"/>
 <img href="https://discord.com/users/714451348212678658" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
  </p>
 <hr>
