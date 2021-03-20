@@ -41,6 +41,8 @@ const ByQush = {
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40em" height="40em"/> </a>
 <a href="https://www.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40em" height="40em"/> </a>
 <a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/> </a>
+<a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Bootstrap" width="40em" height="40em"/> </a>
+<a href="https://sweetalert2.github.io/" target="_blank"> <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo-square.png" alt="SwwetAlert" width="40em" height="40em"/> </a>
 
 <hr>
 
