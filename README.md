@@ -5,7 +5,7 @@
 const ByQush = {
     Name: null,
     Age: "15,5", // :)
-    LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;", // Live the remainin 1 year as you want
+    LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;", // Live the remaining 1 year as you want
     FavouriteLanguage: "PHP , Node.js & Javascript",
     Country: "TR",
     Languages: {
