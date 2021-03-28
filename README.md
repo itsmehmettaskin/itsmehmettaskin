@@ -12,7 +12,8 @@ const ByQush = {
     Country: "TR",
     Languages: {
         Main: "Turkish",
-        All: "English, Turkish"
+        GoodAt: "Turkish, English",
+        All: "English, Turkish, German"
     }
 };
 ```
