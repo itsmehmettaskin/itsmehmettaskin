@@ -3,7 +3,8 @@
 ## If ByQush was An Object in a Javascript File:
 ```js
 const ByQush = {
-    Name: null,
+    Name: "Mehmet",
+    Surname: "Taşkın",
     KnownAs: "VoidDevs Founder",
     Age: "15,5", // :)
     LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;", // Live the remaining 1 year as you want
