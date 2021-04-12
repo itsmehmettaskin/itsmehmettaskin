@@ -1,4 +1,4 @@
-# Hi! Nice te meet you! 👋
+# Hi! Nice to meet you! 👋
 
 ## If ByQush was An Object in a Javascript File:
 ```js
@@ -7,13 +7,13 @@ const ByQush = {
     Surname: "Taşkın",
     KnownAs: "VoidDevs Founder",
     Age: "15,5", // :)
-    LifePhilosophy: "while(age++ < life.lenght) knowledge++ ;", // Live the remaining 1 year as you want
-    FavouriteLanguage: "PHP , Node.js & Javascript",
+    LifePhilosophy: "while(age++ < life.length) knowledge++;", // Live the remaining 1 year as you want
+    FavouriteLanguages: "PHP, Node.js & JavaScript",
     Country: "TR",
     Languages: {
         Main: "Turkish",
-        GoodAt: "Turkish, English",
-        All: "English, Turkish, German"
+        GoodAt: ["Turkish", "English"],
+        All: ["English", "Turkish", "German"]
     }
 };
 ```
