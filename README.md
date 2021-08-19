@@ -50,12 +50,10 @@ const ByQush = {
 </p>
 <hr>
 
-<div>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&cover_image=true&theme=default" alt="Listen To Spotify" /></a>
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&cover_image=true&theme=default" alt="Listen To Spotify" /></a>
     
-        <a href="https://discord.gg/jWeghWEC"> <img align="right" src="https://discordapp.com/api/guilds/745275624092074094/widget.png?style=banner4" alt="Discord Banner 4"/> </a>
- 
-    </div>
+<a href="https://discord.gg/jWeghWEC"> <img align="right" src="https://discordapp.com/api/guilds/745275624092074094/widget.png?style=banner4" alt="Discord Banner 4"/> </a>
 <br>
 
 ## Stats:
