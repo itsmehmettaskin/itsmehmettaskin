@@ -52,6 +52,7 @@ const ByQush = {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&redirect=true)
  
+ ![Discord Banner 4](https://discordapp.com/api/guilds/745275624092074094/widget.png?style=banner4)
 <br>
 
 ## Stats:
