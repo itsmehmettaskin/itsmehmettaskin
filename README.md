@@ -49,9 +49,9 @@ const ByQush = {
 <a href="https://sweetalert2.github.io/" target="_blank"> <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo-square.png" alt="SwwetAlert" width="40em" height="40em"/> </a>
 </p>
 <hr>
-<div align="center">
+<center>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbapdiv5j8dfn3bujm5jgn7n2&redirect=true)
-</div>
+</center>
 ## Stats
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ByQushjs&theme=dracula">
