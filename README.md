@@ -55,7 +55,7 @@ const ByQush = {
     
 <a href="https://discord.gg/jWeghWEC"> <img align="right" src="https://discordapp.com/api/guilds/745275624092074094/widget.png?style=banner4" alt="Discord Banner 4"/> </a>
 <br>
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/524213944043438098">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/524213944043438098)](https://discord.com/users/524213944043438098)
 
 ## Stats:
 <div align="center">
