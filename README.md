@@ -1,7 +1,7 @@
 # Hi! Nice te meet you! 👋
 <p align="center"> 
   You're the<br>
-  <img src="https://profile-counter.glitch.me/ByQushjs/count.svg" />
+  <img src="https://profile-counter.glitch.me/ByQushjs/count.svg" /><br>
   person visiting my profile!
 </p>
 
