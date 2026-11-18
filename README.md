@@ -22,7 +22,7 @@
 const mehmet = {
   role:              "Founder @ VOI Enterprise",
   divisions:         ["VOI Digital", "VOI Labs"],
-  education:         "BSc Information Engineering, Technical University of Munich",
+  education:         "B.Sc. Information Engineering @ Technical University of Munich",
   location:          ["Germany", "İstanbul, TR", "Ankara, TR"],
   mostUsedLanguages: ["TypeScript", "JavaScript", "Rust", "Next.js"],
 };
@@ -34,23 +34,23 @@ const mehmet = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,rust,html,css&theme=dark" />
-    <img alt="TypeScript, JavaScript, Rust, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,rust,html,css&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Crust%2Chtml%2Ccss&theme=dark" />
+    <img alt="TypeScript, JavaScript, Rust, HTML, CSS" src="https://skillicons.dev/icons?i=ts%2Cjs%2Crust%2Chtml%2Ccss&theme=light" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs,tailwind&theme=dark" />
-    <img alt="Next.js, React, Three.js, Node.js, Tailwind CSS" src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs,tailwind&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cthreejs%2Cnodejs%2Ctailwind&theme=dark" />
+    <img alt="Next.js, React, Three.js, Node.js, Tailwind CSS" src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cthreejs%2Cnodejs%2Ctailwind&theme=light" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,kubernetes,linux,nginx,cloudflare,git,github&theme=dark" />
-    <img alt="PostgreSQL, MySQL, Redis, Docker, Kubernetes, Linux, Nginx, Cloudflare, Git, GitHub" src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,kubernetes,linux,nginx,cloudflare,git,github&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Credis%2Cdocker%2Ckubernetes%2Clinux%2Cnginx%2Ccloudflare%2Cgit%2Cgithub&theme=dark" />
+    <img alt="PostgreSQL, MySQL, Redis, Docker, Kubernetes, Linux, Nginx, Cloudflare, Git, GitHub" src="https://skillicons.dev/icons?i=postgres%2Cmysql%2Credis%2Cdocker%2Ckubernetes%2Clinux%2Cnginx%2Ccloudflare%2Cgit%2Cgithub&theme=light" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,figma,bash&theme=dark" />
-    <img alt="VS Code, Figma, Bash" src="https://skillicons.dev/icons?i=vscode,figma,bash&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cfigma%2Cbash&theme=dark" />
+    <img alt="VS Code, Figma, Bash" src="https://skillicons.dev/icons?i=vscode%2Cfigma%2Cbash&theme=light" />
   </picture>
 </p>
 
